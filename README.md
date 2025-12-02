@@ -35,7 +35,7 @@ Develop SQL-based analytics to deliver detailed insights into:
   #### Deliverables
   - SQL queries for data extraction and analysis
   - Interactive dashboards using Power BI/Tableau/Excel
-  - Excutive summary reports with key findings and recommendations.
+  - Executive summary reports with key findings and recommendations.
   - Data Visualizations that clearly communicate insights to non-technical stakeholders.
  
     ## License
