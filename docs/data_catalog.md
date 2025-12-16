@@ -26,8 +26,7 @@ tables** and **fact tables** for specific business metrics
 
 <hr style="border: 3px solid black;">
 
-## 1. gold.dim_products
-
+### 1. gold.dim_products
 • **Purpose:** Provides information about the product and their attributes.
 
 • **Columns:**
@@ -48,8 +47,7 @@ tables** and **fact tables** for specific business metrics
 
 <hr style="border: 3px solid black;">
 
-## 1. gold.fact_sales
-
+### 1. gold.fact_sales
 • **Purpose:** Provides information about the product and their attributes.
 
 • **Columns:**
