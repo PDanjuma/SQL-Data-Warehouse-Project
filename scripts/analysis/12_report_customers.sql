@@ -23,7 +23,7 @@ Highlihts:
 /*------------------------------------------------------------------------------------
 1. Base Query: Retrieves core columns from tables
 -------------------------------------------------------------------------------------*/
-IF OBJECT_ID('gold.report_customers', 'V') IS NOT NULL
+IF OBJECT_ID ('gold.report_customers', 'V') IS NOT NULL
 	DROP VIEW gold.report_customers;
 GO
 
