@@ -84,3 +84,5 @@ UNION ALL
 SELECT 'Total num. Products' AS measure_name, COUNT(product_name) AS measure_value FROM gold.dim_products
 UNION ALL
 SELECT 'Total num. Customers' AS measure_name, COUNT(customer_key) AS measure_value FROM gold.dim_customers
+UNION ALL
+SELECT 'Total num. Customers that placed an order' AS measure_name, COUNT(DISTINCT customer_key) AS measure_value FROM gold.fact_sales
