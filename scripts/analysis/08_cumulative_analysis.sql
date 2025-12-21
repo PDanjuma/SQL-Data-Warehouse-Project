@@ -48,4 +48,4 @@ GROUP BY DATETRUNC(year, order_date)
 
 
   
-)t
+
