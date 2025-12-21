@@ -41,3 +41,15 @@ WHERE order_date IS NOT NULL
 GROUP BY MONTH(order_date)
 ORDER BY MONTH(order_date) ASC;
 ORDER BY MONTH(order_date) ASC;
+
+
+
+
+
+
+
+
+
+
+
+
