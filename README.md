@@ -46,4 +46,4 @@ Develop SQL-based analytics to deliver detailed insights into:
 
     Hi there! I am **Patience Danjuma**, I am a Data Analystics ethusiast building my expertise through hands-on projects like this one.
     I am developing proficiency in SQL, data cleaning, visualization tools (Power BI/Tableau), and analytical problem-solving.
-    I am passionate about learning and applying data analytics to solve real-world businesschallenges.
+    I am passionate about learning and applying data analytics to solve real-world business challenges.
