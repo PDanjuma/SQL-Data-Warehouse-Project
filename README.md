@@ -15,10 +15,10 @@ trends, and insights that drive business decisions and strategic planning.
 
 #### Specifications
 - **Data Sources**: Work with data from two sources systems(ERP and CRM) provided as CSV files
-- **Data Exploration**: Perform exploratory data analysis(EDA) to understand data distributions, patterns, and relationships
 - **Data Cleaning**: Identify and resolve data quality issues including missing values, duplicates, and inconsistencies
 - **Data Transformation**: Prepare and transform data for analysis using SQL queries and data manipulation techniques.
-- **Scope**: Focus on analyzing the latest dataset to identify current trends and opportunities
+- **Data Exploration**: Perform exploratory data analysis(EDA) to understand data distributions, patterns, and relationships
+- **Scope**: Focus on analyzing latest dataset to identify current trends and opportunities
 - **Documentation**: Provide clear documentation of analysis methodology, findings, and recommendations for stakeholders
 
 ----
@@ -34,9 +34,7 @@ Develop SQL-based analytics to deliver detailed insights into:
 
   #### Deliverables
   - SQL queries for data extraction and analysis
-  - Interactive dashboards using Power BI/Tableau/Excel
   - Executive summary reports with key findings and recommendations.
-  - Data Visualizations that clearly communicate insights to non-technical stakeholders.
  
     ## License
 
@@ -45,5 +43,5 @@ Develop SQL-based analytics to deliver detailed insights into:
      ## About Me
 
     Hi there! I am **Patience Danjuma**, I am a Data Analystics ethusiast building my expertise through hands-on projects like this one.
-    I am developing proficiency in SQL, data cleaning, visualization tools (Power BI/Tableau), and analytical problem-solving.
+    I am developing proficiency in Excel, SQL, data cleaning, visualization tools (Power BI/Tableau), and analytical problem-solving.
     I am passionate about learning and applying data analytics to solve real-world business challenges.
